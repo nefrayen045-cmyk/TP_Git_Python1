@@ -5,4 +5,4 @@ matiere = input("Quelle matiere revises-tu ? ")
 print(f"Tu revises : {matiere}.")
 duree = input("Combien de minutes vas-tu reviser ? ")
 print(f"Objectif : reviser {matiere} pendant {duree} minutes.")
-(V4 - ajout de la duree de revision)
+#V4 - ajout de la duree de revision
